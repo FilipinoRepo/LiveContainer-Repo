@@ -24,5 +24,6 @@
     "localizedDescription": "Contanerize your apps without app limits!",
     "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/LiveContainer-Repo/refs/heads/main/icon.png",
     "size": 59768832,
+    },
   ]
 }
