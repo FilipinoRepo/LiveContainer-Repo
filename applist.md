@@ -18,7 +18,7 @@
     "name": "LiveContainer Vanilla",
     "bundleIdentifier": "com.kdt.livecontainervanilla",
     "developerName": "khanhduytran0",
-    "version": "3.0.0",
+    "version": "2.1.2",
     "versionDate": "2024-10-07",
     "downloadURL": "https://github.com/FilipinoRepo/LiveContainer-Repo/raw/refs/heads/main/com.kdt.livecontainer_2.1.2%20%5BIPAEdit%5D.ipa",
     "localizedDescription": "LiveContainer's Official Newest Release (is not the same bundle ID as LiveContainer 3.0 and will take up another App ID) (IS NOT COMPATIBLE WITH ALTSTORE)",
